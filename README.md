@@ -1,0 +1,7 @@
+"# .NET Blazor 全栈项目" 
+"## 项目描述" 
+"这是一个使用 Blazor Server 和 ASP.NET Core Web API 构建的示例项目" 
+"## 技术栈" 
+"- .NET 8.0" 
+"- Blazor Server" 
+"- Entity Framework Core" 
