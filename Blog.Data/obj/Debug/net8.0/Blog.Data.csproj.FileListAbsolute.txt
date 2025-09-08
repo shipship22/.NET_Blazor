@@ -1,0 +1,16 @@
+D:\Project\.NET_Blazor\.NET_Blazor\Blog.Data\bin\Debug\net8.0\Blog.Data.deps.json
+D:\Project\.NET_Blazor\.NET_Blazor\Blog.Data\bin\Debug\net8.0\Blog.Data.dll
+D:\Project\.NET_Blazor\.NET_Blazor\Blog.Data\bin\Debug\net8.0\Blog.Data.pdb
+D:\Project\.NET_Blazor\.NET_Blazor\Blog.Data\bin\Debug\net8.0\Blog.Models.dll
+D:\Project\.NET_Blazor\.NET_Blazor\Blog.Data\bin\Debug\net8.0\Blog.Models.pdb
+D:\Project\.NET_Blazor\.NET_Blazor\Blog.Data\obj\Debug\net8.0\Blog.Data.csproj.AssemblyReference.cache
+D:\Project\.NET_Blazor\.NET_Blazor\Blog.Data\obj\Debug\net8.0\Blog.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\.NET_Blazor\.NET_Blazor\Blog.Data\obj\Debug\net8.0\Blog.Data.AssemblyInfoInputs.cache
+D:\Project\.NET_Blazor\.NET_Blazor\Blog.Data\obj\Debug\net8.0\Blog.Data.AssemblyInfo.cs
+D:\Project\.NET_Blazor\.NET_Blazor\Blog.Data\obj\Debug\net8.0\Blog.Data.csproj.CoreCompileInputs.cache
+D:\Project\.NET_Blazor\.NET_Blazor\Blog.Data\obj\Debug\net8.0\Blog.Data.sourcelink.json
+D:\Project\.NET_Blazor\.NET_Blazor\Blog.Data\obj\Debug\net8.0\Blog.Data.csproj.Up2Date
+D:\Project\.NET_Blazor\.NET_Blazor\Blog.Data\obj\Debug\net8.0\Blog.Data.dll
+D:\Project\.NET_Blazor\.NET_Blazor\Blog.Data\obj\Debug\net8.0\refint\Blog.Data.dll
+D:\Project\.NET_Blazor\.NET_Blazor\Blog.Data\obj\Debug\net8.0\Blog.Data.pdb
+D:\Project\.NET_Blazor\.NET_Blazor\Blog.Data\obj\Debug\net8.0\ref\Blog.Data.dll

@@ -1,0 +1,12 @@
+D:\Project\.NET_Blazor\.NET_Blazor\Blog.Models\bin\Debug\net8.0\Blog.Models.deps.json
+D:\Project\.NET_Blazor\.NET_Blazor\Blog.Models\bin\Debug\net8.0\Blog.Models.dll
+D:\Project\.NET_Blazor\.NET_Blazor\Blog.Models\bin\Debug\net8.0\Blog.Models.pdb
+D:\Project\.NET_Blazor\.NET_Blazor\Blog.Models\obj\Debug\net8.0\Blog.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\.NET_Blazor\.NET_Blazor\Blog.Models\obj\Debug\net8.0\Blog.Models.AssemblyInfoInputs.cache
+D:\Project\.NET_Blazor\.NET_Blazor\Blog.Models\obj\Debug\net8.0\Blog.Models.AssemblyInfo.cs
+D:\Project\.NET_Blazor\.NET_Blazor\Blog.Models\obj\Debug\net8.0\Blog.Models.csproj.CoreCompileInputs.cache
+D:\Project\.NET_Blazor\.NET_Blazor\Blog.Models\obj\Debug\net8.0\Blog.Models.sourcelink.json
+D:\Project\.NET_Blazor\.NET_Blazor\Blog.Models\obj\Debug\net8.0\Blog.Models.dll
+D:\Project\.NET_Blazor\.NET_Blazor\Blog.Models\obj\Debug\net8.0\refint\Blog.Models.dll
+D:\Project\.NET_Blazor\.NET_Blazor\Blog.Models\obj\Debug\net8.0\Blog.Models.pdb
+D:\Project\.NET_Blazor\.NET_Blazor\Blog.Models\obj\Debug\net8.0\ref\Blog.Models.dll
